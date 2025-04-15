@@ -25,6 +25,10 @@ A simple Python command-line app that fetches real-time weather data for any cit
    '''bash
    pip install requests
 
+3. Add your API key:
+   Open weather_app.py
+   Replace "YOUR_API_KEY" with your personal OpenWeatherMap API key
+
 3. Run the app:
    '''bash
    python3 weather_app.py
