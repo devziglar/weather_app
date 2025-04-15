@@ -24,5 +24,5 @@ A simple Python command-line app that fetches real-time weather data for any cit
    pip install requests
 
 3. Run the app:
-   bash
+   '''bash
    python3 weather_app.py
