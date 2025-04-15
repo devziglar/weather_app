@@ -16,10 +16,13 @@ A simple Python command-line app that fetches real-time weather data for any cit
 1. Clone this repository:
    ```bash
    git clone https://github.com/devziglar/weather_app.git
+
+2. Enter project directory
+   cd weather_app
+
 2. Install required package:
-
    pip install requests
-3. Run the app:
 
+3. Run the app:
    bash
    python3 weather_app.py
